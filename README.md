@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Me llamo Alex Romero.
+Me llamo Alex Fernando Romero Gandarillas.
 
 🎓 Estudiante de Ingeniería de Sistemas.  
-💻 Me encanta el CHARQUE.
+💻 Me encanta los retos y el Charque.
 
 > " DESPUES DE MI CUALQUIERA."
