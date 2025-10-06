@@ -3,6 +3,6 @@
 Me llamo Alex Fernando Romero Gandarillas.
 
 🎓 Estudiante de Ingeniería de Sistemas.  
-💻 Me encanta los retos y el Charque.
+💻 Me encanta el pan.
 
 > " DESPUES DE MI CUALQUIERA."
