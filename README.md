@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 Me llamo Alex Fernando Romero Gandarillas.
 
