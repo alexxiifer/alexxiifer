@@ -1,10 +1,28 @@
+# Hola, soy Alex Romero 👋
 
+Estudiante de Ingeniería de Sistemas en la Universidad Mayor de San Simón (UMSS), en Bolivia. Me interesa crear software útil y seguir creciendo en desarrollo backend, aseguramiento de calidad y redes.
 
-Me llamo Alex Fernando Romero Gandarillas.
+## En qué estoy trabajando
 
-🎓 Estudiante de Ingeniería de Sistemas.  
-🥖 Fanático del pan, en todas sus formas y estados: tostado, fresco, artesanal, con mantequilla o sin motivo alguno.
+- Desarrollo de APIs y aplicaciones web.
+- Pruebas de software, análisis de requisitos y mejora de calidad.
+- Redes y administración de infraestructura; cuento con certificación MikroTik MTCNA.
 
-<𝑬́𝒙𝒐𝒅𝒐 14:14 | 𝑷𝒓𝒐𝒗𝒆𝒓𝒃𝒊𝒐𝒔 20:30 | 𝟏 𝑻𝒊𝒎𝒐𝒕𝒆𝒐 2:11
+## Tecnologías que he usado
 
-MOM DIDN'T RAISE A BITCH
+**Backend:** TypeScript, NestJS, Python, FastAPI  
+**Datos:** PostgreSQL, MySQL, Supabase  
+**Frontend:** React
+
+## Proyecto destacado
+
+[**Sistema de Reciclaje API**](https://github.com/alexxiifer/sistema-de-reciclaje)  
+API REST para gestionar usuarios, puntos de reciclaje, materiales, recompensas e impacto ambiental. Desarrollada con NestJS, TypeORM y MySQL.
+
+## Contacto
+
+Puedes escribirme por [GitHub](https://github.com/alexxiifer).
+
+---
+
+☕ En mi tiempo libre, casi siempre hay pan cerca.
