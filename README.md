@@ -1,9 +1,10 @@
 <div align="center">
 
-# Alex Romero
+<img src="https://raw.githubusercontent.com/alexxiifer/alexxiifer/main/assets/profile-banner.svg" alt="Hola, soy Alex Romero" width="100%">
 
-### Estudiante de Ingeniería de Sistemas · Backend · QA · Redes
+### Ingeniería de Sistemas · Backend · QA · Redes
 
+**Construyendo software útil y aprendiendo en cada proyecto.**  
 Universidad Mayor de San Simón (UMSS) · Bolivia
 
 [![GitHub](https://img.shields.io/badge/GitHub-@alexxiifer-181717?style=for-the-badge&logo=github)](https://github.com/alexxiifer)
@@ -13,40 +14,40 @@ Universidad Mayor de San Simón (UMSS) · Bolivia
 
 ---
 
+## What I'm Building
+
+| Proyecto | Descripción | Stack |
+|:--|:--|:--|
+| [**Sistema de Reciclaje API**](https://github.com/alexxiifer/sistema-de-reciclaje) | API REST colaborativa para administrar usuarios, puntos de reciclaje, materiales, recompensas e impacto ambiental. | `NestJS` `TypeORM` `MySQL` |
+| [**ARCUSUR Encuestas**](https://github.com/rebecayucratovar/arcusur-encuestas) | Colaboración en una aplicación académica de encuestas y análisis para titulados de Ingeniería de Sistemas. | `FastAPI` `React` `TypeScript` `Supabase` |
+
+## Tech DNA
+
+```text
+Languages   TypeScript · Python · Java
+Backend     NestJS · FastAPI · REST APIs
+Frontend    React
+Database    MySQL · PostgreSQL · Supabase
+Quality     Functional testing · Test cases · Defect reports
+Networks    MikroTik · MTCNA
+```
+
 ## Sobre mí
 
-Estoy culminando Ingeniería de Sistemas y construyo proyectos académicos para convertir conceptos en soluciones funcionales. Me interesa especialmente el desarrollo backend, la calidad de software y las redes.
+Estoy culminando Ingeniería de Sistemas. Me interesa diseñar APIs, validar que el software cumpla sus requisitos y aprender cómo se conectan las aplicaciones con la infraestructura que las sostiene.
 
-- Diseño e implementación de APIs REST.
-- Pruebas de software, validación de requisitos y reporte de defectos.
-- Administración de redes; cuento con certificación **MikroTik MTCNA**.
-- Actualmente profundizo en desarrollo web y buenas prácticas de ingeniería.
+- Desarrollo backend y aplicaciones web.
+- Aseguramiento de calidad, diseño de casos de prueba y reporte de defectos.
+- Redes y administración de infraestructura; certificado **MikroTik MTCNA**.
 
-## Tecnologías
+## GitHub Stats
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=alexxiifer&show_icons=true&theme=dark&hide_border=true&rank_icon=github&hide_title=true" alt="Estadísticas de GitHub de Alex">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexxiifer&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Lenguajes más usados en GitHub">
 
 </div>
-
-## Proyectos destacados
-
-| Proyecto | Descripción | Tecnologías |
-| --- | --- | --- |
-| [**Sistema de Reciclaje API**](https://github.com/alexxiifer/sistema-de-reciclaje) | API REST colaborativa para gestionar usuarios, puntos de reciclaje, materiales, recompensas e impacto ambiental. | NestJS · TypeORM · MySQL |
-| [**ARCUSUR Encuestas**](https://github.com/rebecayucratovar/arcusur-encuestas) | Colaboración en una aplicación académica para encuestas y análisis de titulados de Ingeniería de Sistemas. | FastAPI · React · TypeScript · Supabase |
-
-## Enfoque profesional
-
-Me gusta entender el problema, diseñar una solución clara y comprobar que funcione. Busco oportunidades para seguir creciendo en **desarrollo de software, QA y redes**.
 
 ---
 
