@@ -2,10 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/alexxiifer/alexxiifer/main/assets/profile-banner.svg" alt="Hola, soy Alex Romero" width="100%">
 
-### Ingeniería de Sistemas · Backend · QA · Redes
+### Desarrollador Full Stack en formación
 
-**Construyendo software útil y aprendiendo en cada proyecto.**  
-Universidad Mayor de San Simón (UMSS) · Bolivia
+**Frontend · Backend · Bases de datos**  
+Estudiante de Ingeniería de Sistemas en la Universidad Mayor de San Simón (UMSS) · Bolivia
 
 [![GitHub](https://img.shields.io/badge/GitHub-@alexxiifer-181717?style=for-the-badge&logo=github)](https://github.com/alexxiifer)
 ![CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
@@ -16,36 +16,37 @@ Universidad Mayor de San Simón (UMSS) · Bolivia
 
 ---
 
-## What I'm Building
+## Proyectos destacados
 
 | Proyecto | Descripción | Stack |
 |:--|:--|:--|
-| [**Sistema de Reciclaje API**](https://github.com/alexxiifer/sistema-de-reciclaje) | API REST colaborativa para administrar usuarios, puntos de reciclaje, materiales, recompensas e impacto ambiental. | `NestJS` `TypeORM` `MySQL` |
-| [**ARCUSUR Encuestas**](https://github.com/rebecayucratovar/arcusur-encuestas) | Colaboración en una aplicación académica de encuestas y análisis para titulados de Ingeniería de Sistemas. | `FastAPI` `React` `TypeScript` `Supabase` |
+| [**ARCUSUR Encuestas**](https://github.com/rebecayucratovar/arcusur-encuestas) | Colaboración en una aplicación web académica para gestionar encuestas y analizar respuestas de titulados. | `React` · `TypeScript` · `FastAPI` · `Supabase` |
+| [**Sistema de Reciclaje API**](https://github.com/alexxiifer/sistema-de-reciclaje) | API REST colaborativa para gestionar usuarios, puntos de reciclaje, materiales, recompensas e impacto ambiental. | `NestJS` · `TypeORM` · `MySQL` |
 
-## Tech DNA
+## Stack tecnológico
 
 ```text
-Languages   TypeScript · Python · Java
-Backend     NestJS · FastAPI · REST APIs
-Frontend    React
-Database    MySQL · PostgreSQL · Supabase
-Quality     Functional testing · Test cases · Defect reports
-Networks    Cisco CCNA · MikroTik MTCNA · Palo Alto Networks (en formación)
+Frontend       React · TypeScript
+Backend        NestJS · FastAPI · APIs REST
+Bases de datos MySQL · PostgreSQL · Supabase
+Lenguajes      TypeScript · Python · Java
+Calidad        Casos de prueba · Pruebas funcionales · Reporte de defectos
+Redes          Cisco CCNA · MikroTik MTCNA · Palo Alto Networks (en formación)
 ```
 
 ## Sobre mí
 
-Estoy culminando Ingeniería de Sistemas. Me interesa diseñar APIs, validar que el software cumpla sus requisitos y aprender cómo se conectan las aplicaciones con la infraestructura que las sostiene.
+Estoy culminando Ingeniería de Sistemas y desarrollando experiencia en las distintas partes de una aplicación: interfaces web, lógica de backend e integración con bases de datos. Me interesa crear soluciones claras, funcionales y fáciles de mantener.
 
-- Desarrollo backend y aplicaciones web.
-- Aseguramiento de calidad, diseño de casos de prueba y reporte de defectos.
-- Redes y administración de infraestructura; certificado en **Cisco CCNA** y **MikroTik MTCNA**. Actualmente aprendiendo **Palo Alto Networks**.
+- Desarrollo de aplicaciones web y servicios REST.
+- Trabajo colaborativo con control de versiones y revisión de requisitos.
+- Diseño de casos de prueba y validación de funcionalidades.
+- Certificaciones **Cisco CCNA** y **MikroTik MTCNA**; actualmente aprendiendo **Palo Alto Networks**.
 
 ---
 
 <div align="center">
 
-*Construyendo experiencia, proyecto a proyecto.*
+*Aprendiendo y construyendo, desde la interfaz hasta la base de datos.*
 
 </div>
