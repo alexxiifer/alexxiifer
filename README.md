@@ -40,15 +40,6 @@ Estoy culminando Ingeniería de Sistemas. Me interesa diseñar APIs, validar que
 - Aseguramiento de calidad, diseño de casos de prueba y reporte de defectos.
 - Redes y administración de infraestructura; certificado **MikroTik MTCNA**.
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alexxiifer&show_icons=true&theme=dark&hide_border=true&rank_icon=github&hide_title=true" alt="Estadísticas de GitHub de Alex">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexxiifer&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Lenguajes más usados en GitHub">
-
-</div>
-
 ---
 
 <div align="center">
