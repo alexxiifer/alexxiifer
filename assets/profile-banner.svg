@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
+  <title id="title">Hola, soy Alex Romero</title>
+  <desc id="desc">Banner oscuro con degradado rojo para el perfil de GitHub de Alex Romero.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#101114"/>
+      <stop offset=".52" stop-color="#211214"/>
+      <stop offset="1" stop-color="#431719"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7b2525" stop-opacity=".06"/>
+      <stop offset="1" stop-color="#b64232" stop-opacity=".28"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="270" fill="url(#bg)"/>
+  <path d="M0 228C280 182 487 255 758 216s324-40 442-17v71H0Z" fill="url(#shine)"/>
+  <path d="M0 243c271-44 492 19 748-10s332-40 452-19" fill="none" stroke="#b64232" stroke-opacity=".28" stroke-width="2"/>
+  <text x="600" y="137" text-anchor="middle" fill="#f7f4f2" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700">Hola, soy Alex Romero</text>
+</svg>
