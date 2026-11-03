@@ -8,7 +8,9 @@
 Universidad Mayor de San Simón (UMSS) · Bolivia
 
 [![GitHub](https://img.shields.io/badge/GitHub-@alexxiifer-181717?style=for-the-badge&logo=github)](https://github.com/alexxiifer)
-[![MTCNA](https://img.shields.io/badge/MikroTik-MTCNA-293239?style=for-the-badge&logo=mikrotik)](https://mikrotik.com/training/certificates)
+![CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![MTCNA](https://img.shields.io/badge/MikroTik-MTCNA-293239?style=for-the-badge&logo=mikrotik)
+![Palo Alto en formación](https://img.shields.io/badge/Palo%20Alto-En%20formaci%C3%B3n-E95420?style=for-the-badge)
 
 </div>
 
@@ -29,7 +31,7 @@ Backend     NestJS · FastAPI · REST APIs
 Frontend    React
 Database    MySQL · PostgreSQL · Supabase
 Quality     Functional testing · Test cases · Defect reports
-Networks    MikroTik · MTCNA
+Networks    Cisco CCNA · MikroTik MTCNA · Palo Alto Networks (en formación)
 ```
 
 ## Sobre mí
@@ -38,7 +40,7 @@ Estoy culminando Ingeniería de Sistemas. Me interesa diseñar APIs, validar que
 
 - Desarrollo backend y aplicaciones web.
 - Aseguramiento de calidad, diseño de casos de prueba y reporte de defectos.
-- Redes y administración de infraestructura; certificado **MikroTik MTCNA**.
+- Redes y administración de infraestructura; certificado en **Cisco CCNA** y **MikroTik MTCNA**. Actualmente aprendiendo **Palo Alto Networks**.
 
 ---
 
